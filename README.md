@@ -20,14 +20,17 @@
 
 ### Tested Pipeline By Fetching Website Uploaded on Git to Jenkins (Pipeline works Fine)
 
+<img width="657" height="290" alt="image" src="https://github.com/user-attachments/assets/0d2e3b1c-29ef-4b52-82fc-34dbb28a6d0b" />
+
 ### Created a new file (testingfile.txt) and Added on GitHub Repository to see whether it will trigger Jenkins
 
+<img width="578" height="321" alt="image" src="https://github.com/user-attachments/assets/683b8c30-0bed-4b49-a462-3f726a639191" />
 
-
-
+<img width="454" height="308" alt="image" src="https://github.com/user-attachments/assets/48d838ed-05dc-458f-ba17-3dfa4d172a11" />
 
 ### The file testingfile.txt from GitHub was successfully populated into Jenkins which means that the pipeline is working perfectly fine
 
+<img width="479" height="214" alt="image" src="https://github.com/user-attachments/assets/07699ff0-5dd9-40fc-bfff-33b09bc601e2" />
 
 
 
